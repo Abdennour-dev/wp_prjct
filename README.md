@@ -1,1 +1,1 @@
-# wp_prjct
+# Aquila theme
